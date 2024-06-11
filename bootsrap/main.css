@@ -852,7 +852,6 @@ section,
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  text-decoration: none;
 }
 
 .hero .icon-box i {
@@ -873,6 +872,7 @@ section,
 .hero .icon-box h3 a {
   color: color-mix(in srgb, var(--default-color), transparent 20%);
   transition: ease-in-out 0.3s;
+  text-decoration: none;
 }
 
 .hero .icon-box:hover {
