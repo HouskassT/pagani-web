@@ -1,0 +1,18 @@
+.auticko:before {
+    content: "\1f697";
+  }
+.stranka:before {
+    content: "\1f4c4";
+  }
+.model:before {
+    content: "\1f698";
+  }  
+.history:before {
+    content: "\1f4dc";
+  }
+.inder-regular {
+    font-family: "Inder", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }    
+  
